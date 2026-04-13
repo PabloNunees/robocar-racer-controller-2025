@@ -8,7 +8,7 @@ Este repositório contém o projeto de hardware da **placa controladora** desenv
 ## Visualização do Projeto
 
 ### Modelo 3D
-![Vista 3D da Controladora](Assets/Car_v1_foto_da_PCB.png)
+![Vista 3D da Controladora](Assets/Car_v1_foto.png)
 
 ### Documentação Técnica (PDF)
 Para detalhes de roteamento e conexões, acesse os arquivos abaixo:

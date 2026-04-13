@@ -14,7 +14,6 @@ Este repositório contém o projeto de hardware da **placa controladora** desenv
 Para detalhes de roteamento e conexões, acesse os arquivos abaixo:
 * [📄 Esquemático Completo](Assets/Esquemático.pdf)
 * [📄 Layout da PCB](Assets/PCB_layout.pdf)
-* [📦 Modelo 3D Interativo (GLB)](Car_v1.glb)
 
 ---
 
